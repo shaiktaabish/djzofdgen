@@ -307,6 +307,7 @@
   right: 0%;
   bottom: 0%;
   z-index: 3;
+  display: none;
   max-width: 160px;
   margin-right: auto;
   margin-left: auto;
@@ -344,6 +345,11 @@
   height: 2px;
   margin: 34px auto;
   background-color: #fff;
+}
+
+.white-line.up {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 ._96px {
@@ -1334,8 +1340,20 @@
     margin-top: 100px;
   }
 
+  .twoo {
+    left: auto;
+    right: 58%;
+    bottom: -10px;
+  }
+
+  .onee {
+    left: auto;
+    right: 80%;
+  }
+
   .fourr {
-    right: 11%;
+    right: 7%;
+    bottom: -25px;
   }
 
   .navbar {
@@ -1343,7 +1361,7 @@
   }
 
   .scroll-down {
-    bottom: -20%;
+    bottom: -100px;
   }
 
   .scroll-down.w--current {
@@ -1362,6 +1380,12 @@
   .image {
     top: 0px;
     width: 150px;
+  }
+
+  .white-line.up {
+    position: relative;
+    top: 100px;
+    margin-bottom: 0px;
   }
 
   ._96px {
