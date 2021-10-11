@@ -281,7 +281,8 @@
 }
 
 .social-wrap {
-  z-index: 999;
+  position: relative;
+  z-index: 9999;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
