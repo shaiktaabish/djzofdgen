@@ -950,11 +950,7 @@
 }
 
 .text-block-9 {
-  position: absolute;
-  left: 0%;
-  top: auto;
-  right: 0%;
-  bottom: -75px;
+  margin-top: 55px;
   margin-right: auto;
   margin-left: auto;
   font-family: 'Rbno21b book', sans-serif;
@@ -1019,17 +1015,13 @@
 }
 
 .lok.abs {
-  position: absolute;
-  left: 0%;
-  top: auto;
-  right: 0%;
-  bottom: -78%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   width: 30px;
   height: 30px;
+  margin-top: 15px;
   margin-right: auto;
   margin-left: auto;
   -webkit-box-pack: center;
