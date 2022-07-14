@@ -736,7 +736,7 @@ body {
   transition: all 300ms ease;
   font-family: Integralcf, sans-serif;
   color: #000;
-  font-size: 37px;
+  font-size: 27px;
   font-weight: 700;
   text-decoration: none;
   cursor: pointer;
@@ -1450,7 +1450,7 @@ body {
   .yellow-button {
     height: 70px;
     max-width: 240px;
-    font-size: 26px;
+    font-size: 20px;
   }
 
   .hello {
